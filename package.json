@@ -1,0 +1,27 @@
+{
+  "name": "egghead_express",
+  "version": "1.0.0",
+  "description": "egghead_express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capuche777/egghead_express.git"
+  },
+  "author": "Jeremias Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capuche777/egghead_express/issues"
+  },
+  "homepage": "https://github.com/capuche777/egghead_express#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
