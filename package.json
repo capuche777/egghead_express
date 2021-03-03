@@ -19,7 +19,7 @@
   "homepage": "https://github.com/capuche777/egghead_express#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
